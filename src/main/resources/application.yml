@@ -65,8 +65,8 @@ logging:
 google:
   recaptcha:
     key:
-      site: 6LfOTCopAAAAAFSu2-wm--x38dsGuhGNmwUpIBRN
-      secret: 6LfOTCopAAAAAIiMB8muhm3fblR8MLixft3byVI4
+      site: #
+      secret: #
       url: https://www.google.com/recaptcha/api/siteverify
 
 resource:
